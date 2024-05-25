@@ -1,3 +1,5 @@
 # Ignore Python cache files
 pykma/__pycache__/
 pykma/utils/__pycache__/
+
+station_info*
