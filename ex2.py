@@ -2,7 +2,7 @@ import json
 from pykma.KMA import KMA
 from pykma.links import *
 
-myKma = KMA("-s73Jz7MQTiO9yc-zCE4xw")
+myKma = KMA("your API key")
 
 typ01_to_json = myKma.typ01_request(ASOS_SPECIFIC_TIME_REQUEST)
 
